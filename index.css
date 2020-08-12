@@ -1,0 +1,53 @@
+body {
+    /* background-color: #cc0400; */
+    background-image: url("./background-image.jpg");
+}
+
+#logo {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 480px;
+    height: 49px;
+    text-shadow: #cc0400;
+    justify-self: center;
+}
+
+#footer {
+    position: relative;
+    text-align: center;
+    bottom: -80px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 19px;
+    color: whitesmoke;
+}
+
+.payment-bar {
+    color: antiquewhite;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    border: 2px solid whitesmoke;
+    border-radius: 10px;
+    
+    height: 70px;
+
+    /* padding */
+    padding-right: 120px;
+    padding-bottom: 50px;
+    padding-top: 0px;
+    padding-left: 10px;
+
+    /* margin */
+ 
+    
+    }
+
+#payment-packs {
+    object-fit: contain;
+    max-width: 50%;
+    height: 45px;
+    position: relative;
+    top: -42px;
+    left: 800px;
+    
+}
+
